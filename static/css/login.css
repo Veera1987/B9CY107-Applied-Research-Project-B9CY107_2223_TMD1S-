@@ -1,0 +1,28 @@
+
+
+*{
+font-family: "Times New Roman", Times, serif;
+}
+
+.login_form{
+padding:0% 10%;
+margin-top:-1%;
+box-shadow:10px 15px 20px black;
+background-image:linear-gradient(to left, #FF512F,#FE9090);
+}
+
+.font{
+font-size:22px;
+padding:0px 5px;
+}
+
+.tuber{padding-top:15px;}
+
+.form-control, label{
+position:relative;
+left:20%;
+width:60%;
+margin-bottom:30px;
+border-radius:40px;
+}
+

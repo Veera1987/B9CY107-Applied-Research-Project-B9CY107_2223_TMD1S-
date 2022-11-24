@@ -1,0 +1,15 @@
+                                                                          Javascript
+
+JavaScript is one of the most-used programming languages.According to Northeastern University, it’s the second-most popular coding language out there.Clearly,JavaScript
+is an integral part of our daily online lives.But what is JavaScript exactly and what can you use it for Together with HTML and CSS,JavaScript is one of the three core
+components of the internet. Any website you visit is bound to use a combination of these three programming languages, each with its own particular purpose. Let’s have 
+a look at them in more detail.
+
+JavaScript typically relies on a run-time environment (e.g., a web browser) to provide objects and methods by which scripts can interact with the environment 
+(e.g., a web page DOM). These environments are single-threaded. JavaScript also relies on the run-time environment to provide the ability to include/import scripts
+(e.g., HTML <script> elements).This is not a language feature per se, but it is common in most JavaScript implementations. JavaScript processes messages from a queue 
+one at a time. JavaScript calls a function associated with each new message, creating a call stack frame with the function's arguments and local variables. The call 
+stack shrinks and grows based on the function's needs. When the call stack is empty upon function completion, JavaScript proceeds to the next message in the queue. 
+This is called the event loop, described as"run to completion" because each message is fully processed before the next message is considered. However, the language's
+concurrency model describes the event loop as non-blocking:program input/output is performed using events and callback functions.This means,for instance,that JavaScript
+ can process a mouse click while waiting for a database query to return information.
